@@ -27,7 +27,9 @@ public class CalcularAreaCirculo {
         
         //double areaTotal  = (raio * raio* PI);
 
-       System.out.print("O valor da area é " + areaTotal);  
+       System.out.print("O valor da area em cm é " + areaTotal); 
+       
+       System.out.print("O valor da area em metros é " + areaTotal/100);
       
     }
 }
