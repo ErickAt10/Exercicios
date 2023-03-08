@@ -8,6 +8,9 @@ package com.mycompany.testeanimal;
  *
  * @author Erick
  */
+
+//Criar uma classe distinguindo 5 atributos para definir um animal. E depois criar uma outra classe para cadastrar 5 animais.
+
 public class TesteAnimal {
 
     public static void main(String[] args) {
